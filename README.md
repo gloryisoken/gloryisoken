@@ -30,4 +30,4 @@ Technological University Dublin
 BSc (Hons) Digital Forensics & Cyber Security
 
 # 📞 Connect With Me
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/glory-isoken-oladipo-omoyemwense-56983127a/
