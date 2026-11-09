@@ -30,4 +30,4 @@ Technological University Dublin
 BSc (Hons) Digital Forensics & Cyber Security
 
 # 📞 Connect With Me
-LinkedIn: My LinkedIn Profile<!--
+LinkedIn:
