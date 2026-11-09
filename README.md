@@ -7,15 +7,15 @@ I'm currently preparing for an industry placement beginning in March 2027, where
 
 # 💻 Featured Projects
 ## Multi-Site Network Security Implementation
-Cisco Packet Tracer | Network Security
+Cisco Packet Tracer | Network Security (https://github.com/gloryisoken/multi-site-network-security)
 Configured and tested security controls across a simulated three-site enterprise network, including SSH, AAA/RADIUS, OSPF authentication, ACLs, Syslog, switch port security and PAT.
 
 ## Cybersecurity Network Traffic Analysis
-Python | Google Colab | scikit-learn
+Python | Google Colab | scikit-learn (https://github.com/gloryisoken/cybersecurity-network-traffic-analysis)
 Analysed 25,192 network traffic records and evaluated machine learning models for detecting malicious activity, including Decision Trees and Random Forests.
 
-## Digital Forensic Investigation
-AccessData FTK | Digital Evidence Analysis | MD5 Verification
+## Digital Forensic Investigation 
+AccessData FTK | Digital Evidence Analysis | MD5 Verification (https://github.com/gloryisoken/digital-forensic-investigation)
 Investigated a simulated forensic disk image, examined recovered digital artefacts, correlated evidence and documented findings in a technical investigation report.
 
 ## 🖥 Technical Skills
